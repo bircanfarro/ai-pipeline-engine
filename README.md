@@ -17,7 +17,7 @@ pytest tests/
 ```
 
 ## Structure
-
+```bash
 ai-pipeline-engine/
 ├── text_pipeline/                 # Main Python package
 │   ├── __init__.py
@@ -38,3 +38,4 @@ ai-pipeline-engine/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
+```
