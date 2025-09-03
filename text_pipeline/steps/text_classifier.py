@@ -1,4 +1,4 @@
-from steps.base import ProcessingStep
+from text_pipeline.steps.base import ProcessingStep
 import joblib
 
 class TextClassifier(ProcessingStep):

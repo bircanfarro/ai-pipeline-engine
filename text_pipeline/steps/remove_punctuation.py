@@ -1,5 +1,5 @@
 import re
-from steps.base import ProcessingStep
+from text_pipeline.steps.base import ProcessingStep
 
 class RemovePunctuation(ProcessingStep):
 

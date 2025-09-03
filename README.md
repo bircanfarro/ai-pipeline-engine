@@ -14,7 +14,7 @@ A modular, test-driven AI pipeline built using Python best practices and OOP des
 
 ```bash
 pytest tests/
-
+```
 
 ## Structure
 

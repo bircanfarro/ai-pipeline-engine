@@ -1,4 +1,4 @@
-from steps.base import ProcessingStep
+from text_pipeline.steps.base import ProcessingStep
 from collections import Counter
 
 class BagOfWordVectorizer(ProcessingStep):
